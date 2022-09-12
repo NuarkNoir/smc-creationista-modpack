@@ -1,0 +1,13 @@
+name = "Smc Creationista"
+author = "nuark"
+version = "1.0.9"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0fad0c85a3b9c46c7e6df7d87eb340e77fb1ae13b27ec5b6142af1ec3ebe494d"
+
+[versions]
+forge = "40.1.73"
+minecraft = "1.18.2"
