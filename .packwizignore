@@ -1,0 +1,4 @@
+*.mrpack
+*.py
+Taskfile.yaml
+.env
