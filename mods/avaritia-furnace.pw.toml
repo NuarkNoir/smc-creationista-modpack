@@ -1,0 +1,13 @@
+name = "Avaritia Furnace"
+filename = "AvaritiaFurnace-3.0.0-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItF9rhBe/versions/3.0.0/AvaritiaFurnace-3.0.0-1.18.2.jar"
+hash-format = "sha1"
+hash = "41864e548d4618e880ca7266fa15c4ac06b90ed0"
+
+[update]
+[update.modrinth]
+mod-id = "ItF9rhBe"
+version = "r4btkZ49"

@@ -1,0 +1,13 @@
+name = "InfinityLib"
+filename = "infinitylib-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRSROPyx/versions/infinitylib-1.18.2-2.1.4/infinitylib-2.1.4.jar"
+hash-format = "sha1"
+hash = "c23117b224dd3ef474c9ad0accd213ef5649b884"
+
+[update]
+[update.modrinth]
+mod-id = "bRSROPyx"
+version = "fM30vJrH"

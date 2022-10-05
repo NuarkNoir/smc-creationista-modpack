@@ -1,0 +1,4 @@
+version:2975
+autoJump:false
+resourcePacks:["vanilla","mod_resources","programer_art","file/Infernal Resources.zip","file/VanillaTweaks_r384380.zip"]
+incompatibleResourcePacks:["file/Infernal Resources.zip"]

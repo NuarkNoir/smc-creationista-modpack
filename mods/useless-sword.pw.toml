@@ -1,0 +1,13 @@
+name = "Useless Sword"
+filename = "useless-sword-1.18.2-V1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SKzBgUZC/versions/1.4.0/useless-sword-1.18.2-V1.4.0.jar"
+hash-format = "sha1"
+hash = "4be5b11e82cf8d7744fed6871573426728fb31ad"
+
+[update]
+[update.modrinth]
+mod-id = "SKzBgUZC"
+version = "GmpCKXbm"

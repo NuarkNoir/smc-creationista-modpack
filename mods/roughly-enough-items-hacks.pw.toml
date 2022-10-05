@@ -1,0 +1,13 @@
+name = "REI Plugin Compatibilities"
+filename = "RoughlyEnoughItems-jei-internals-workaround-8.3.529.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1PfY6b5p/versions/8.3.529+jei-internals-workaround/RoughlyEnoughItems-jei-internals-workaround-8.3.529.jar"
+hash-format = "sha1"
+hash = "fab96003c8826db5397d23442b530bebcded8f15"
+
+[update]
+[update.modrinth]
+mod-id = "1PfY6b5p"
+version = "4cecgoBY"

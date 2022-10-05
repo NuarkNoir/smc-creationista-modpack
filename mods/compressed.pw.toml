@@ -1,0 +1,13 @@
+name = "Compressed"
+filename = "Compressed-1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kCbTXhEt/versions/O00k5Kwb/Compressed-1.6.jar"
+hash-format = "sha1"
+hash = "95453eafaa72aeb8ba03872bb92ec6091a7b1b8f"
+
+[update]
+[update.modrinth]
+mod-id = "kCbTXhEt"
+version = "O00k5Kwb"

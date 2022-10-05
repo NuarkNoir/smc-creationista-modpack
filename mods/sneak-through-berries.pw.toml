@@ -1,0 +1,13 @@
+name = "Sneak Through Berries"
+filename = "stb-4.0.0+1.18.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xq3wqd0E/versions/4.0.0+1.18.2-forge/stb-4.0.0%2B1.18.2-forge.jar"
+hash-format = "sha1"
+hash = "514e724a2733b8e4ef84291ae40e7dca6ac7fb99"
+
+[update]
+[update.modrinth]
+mod-id = "xq3wqd0E"
+version = "XJE7LlZz"

@@ -1,0 +1,13 @@
+name = "Thermal Foundation"
+filename = "thermal_foundation-1.18.2-1.6.3.28.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xvg6q5Wp/versions/1.6.3/thermal_foundation-1.18.2-1.6.3.28.jar"
+hash-format = "sha1"
+hash = "44272848a5e7898c402f7c9b37cba61f72534042"
+
+[update]
+[update.modrinth]
+mod-id = "Xvg6q5Wp"
+version = "GMJuyJeG"

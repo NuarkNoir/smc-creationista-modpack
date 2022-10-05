@@ -1,0 +1,13 @@
+name = " Integrated Crafting"
+filename = "IntegratedCrafting-1.18.2-1.0.25.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwpACdla/versions/MDGB52nb/IntegratedCrafting-1.18.2-1.0.25.jar"
+hash-format = "sha1"
+hash = "f080191582ae469c9a79ec93bdae51c6c1507ef7"
+
+[update]
+[update.modrinth]
+mod-id = "qwpACdla"
+version = "MDGB52nb"

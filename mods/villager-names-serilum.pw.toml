@@ -1,0 +1,13 @@
+name = "Villager Names (Serilum)"
+filename = "villagernames_1.18.2-4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gqRXDo8B/versions/tQ1qRWWI/villagernames_1.18.2-4.1.jar"
+hash-format = "sha1"
+hash = "a122a8b3e1174c45970fda68261083666efc5709"
+
+[update]
+[update.modrinth]
+mod-id = "gqRXDo8B"
+version = "tQ1qRWWI"

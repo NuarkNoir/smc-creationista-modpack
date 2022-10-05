@@ -1,0 +1,13 @@
+name = "Building Wands"
+filename = "BuildingWands_mc1.18.2-2.6.3_release-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XkisZUfp/versions/2.6.3_release_forge_1.18.2/BuildingWands_mc1.18.2-2.6.3_release-forge.jar"
+hash-format = "sha1"
+hash = "43c1cb85aa17e1b6116c36330e69996f3e5776bb"
+
+[update]
+[update.modrinth]
+mod-id = "XkisZUfp"
+version = "AnNLvF6F"
