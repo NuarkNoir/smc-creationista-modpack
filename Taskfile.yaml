@@ -1,0 +1,22 @@
+# https://taskfile.dev
+
+version: '3'
+
+vars:
+  GREETING: Hello, World!
+
+tasks:
+  default:
+    cmds: [ task --list-all ]
+    silent: true
+
+  push-version:
+    cmds:
+      - python push_version.py
+
+  build:
+    cmds:
+      - packwiz mr export
+
+  release:
+    cmds: [ task push-version && task build ]
